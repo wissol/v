@@ -13,7 +13,7 @@ latex_jinja_env = jinja2.Environment(
 	loader = jinja2.FileSystemLoader("templates")
         )
 
-nombre_archivo_de_jubilados = "apj.csv"
+nombre_archivo_de_jubilados = "j.csv"
 
 suplemento_archivo_salida = " Vacaciones Jubilados.tex"
 
